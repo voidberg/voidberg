@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am the Director of Software Engineering at @BrandedEntertainmentNetwork, an amateur game developer, lazy chiptune maker and part time Mr. T impersonator.
+
+From time to time I like to ride pig statues while pretending to be Bastian from Neverending Story.
+
+
 <!--
 **voidberg/voidberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

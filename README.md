@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the Director of Software Engineering at [Branded Entertainment Network](https://ben.productplacement.com), an amateur game developer, [lazy chiptune maker](https://soundcloud.com/viciosul_sid) and part time Mr. T impersonator.
+I am a Senior Director of Engineering at [BENlabs](https://benlabs.com), an amateur game developer, [lazy chiptune maker](https://soundcloud.com/viciosul_sid) and part time Mr. T impersonator.
 
 From time to time I like to ride pig statues while pretending to be Bastian from Neverending Story.
 
